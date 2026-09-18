@@ -1,0 +1,10 @@
+data/
+*.dcm
+*.nii
+
+#modelos
+*.pt
+
+#entorno
+.venv/
+__pycache__/
